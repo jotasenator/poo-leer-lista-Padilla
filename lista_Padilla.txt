@@ -1,0 +1,5 @@
+Maykel,39,3,3,3,5
+Padilla,27,3,5,5,5
+David,27,3,3,3,5
+Pogolotti,27,3,5,5,5
+Felipe,61,3,3,3,5
